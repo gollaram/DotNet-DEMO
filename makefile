@@ -9,7 +9,7 @@ AZURE_REGION ?= northeurope
 AZURE_APP_NAME ?= dotnet-demoapp
 
 # Used by `test-api` target
-TEST_HOST ?= localhost:5000
+TEST_HOST ?= localhost:3000
 
 # Don't change
 SRC_DIR := src
